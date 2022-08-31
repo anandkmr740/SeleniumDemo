@@ -23,4 +23,11 @@ public class SeleniumTest {
 		System.out.println("Web Element UI1");
 		System.out.println("Web Element UI2");
 	}
+	
+	@Test
+	public void locators() {
+		System.out.println("locators UI");
+		System.out.println("locators UI1");
+		System.out.println("locators UI2");
+	}
 }
