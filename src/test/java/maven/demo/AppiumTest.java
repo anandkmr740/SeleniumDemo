@@ -11,4 +11,9 @@ public class AppiumTest {
 	public void iosAppAndroid() {
 		System.out.println("ios Android");
 	}
+	
+	@Test
+	public void macAppAndroid() {
+		System.out.println("mac Android");
+	}
 }

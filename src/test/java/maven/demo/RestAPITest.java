@@ -18,4 +18,10 @@ public class RestAPITest {
 		System.out.println("Hi Twitter");
 		System.out.println("Hello Twitter");
 	}
+	@Test
+	public void createTwitter() {
+		System.out.println("Create Twitter");
+		System.out.println("Hi Twitter");
+		System.out.println("Hello Twitter");
+	}
 }
